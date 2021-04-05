@@ -11,4 +11,4 @@
 
 
 ## View Meeting Log
-https://github.com/skkuse/2021spring_41class_team10.wiki.git
+https://github.com/skkuse/2021spring_41class_team10/wiki/Meeting-Log
