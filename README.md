@@ -13,5 +13,5 @@
 2016312160 이준성 <br>
 2018310587 소예림 <br>
 
-## View Meeting Log
+## Meeting Log
 https://github.com/skkuse/2021spring_41class_team10/wiki/Meeting-Log
